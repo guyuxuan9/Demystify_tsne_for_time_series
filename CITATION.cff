@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Demystifying t-SNE for Time Series"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Moutonnet
+    given-names: Nina
+  - family-names: Gu
+    given-names: Yuxuan
+  - family-names: Hucumenoglu
+    given-names: Elif
+  - family-names: Mandic
+    given-names: Danilo

@@ -1,0 +1,9 @@
+matplotlib>=3.7
+dtaidistance>=2.3
+numpy>=1.24
+pandas>=2.0
+psutil>=5.9
+pycatch22>=0.4.5
+scikit-learn>=1.3
+scipy>=1.10
+torch>=2.0
